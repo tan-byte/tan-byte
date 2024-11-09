@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tan-byte
-- 👀 I’m interested in Problem Solving, DSA, open source and dynamic programming!
-- 🌱 I’m currently learning Java, C++ and C
+- 👀 I’m interested in Problem Solving, DSA, open sourcing!
+- 🌱 I’m currently acquainted with Java, C++ and C
 - 💞️ I’m looking to collaborate on various projects which match my interests and give my best!
 - 📫 How to reach me ...
 - 😄 Pronouns: she/her
