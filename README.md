@@ -1,8 +1,7 @@
-- 👋 Hi, I’m Tanishka !
+- 👋 Hi, I’m Tan!
 - 👀 I’m interested in open sourcing and web development!
 - 🌱 I’m currently acquainted with Java, JavaScript, React, tailwind, dart and firebase.
 - 💞️ I’m looking to collaborate on various projects which match my interests and give my best!
-- 😄 Pronouns: she/her
 - ⚡ Fun fact: ;)
 
 <!---
